@@ -8,9 +8,9 @@ I am an aspiring Software Engineer looking to make a career change that I am pas
 I am currently enrolled in Actualize Coding Bootcamp and am loving every minute of it. Not only am I loving the course but every day I get more excited to be able to fully immerse myself in a career in tech. Learning these new skills has given me so much energy and passion that I am excited to bring in to my job search and eventual new career.
 
 ### Here is a rundown of what the class is focusing on:
-#### + Languages: Ruby, JavaScript, HTML, CSS, SQL
-#### + Frameworks: Ruby on Rails, React.js, Bootstrap 
-#### + Databases/Libraries/Tools: Postgres, APIs, Node/npm, Git, GitHub
+#### Languages: Ruby, JavaScript, HTML, CSS, SQL
+#### Frameworks: Ruby on Rails, React.js, Bootstrap 
+#### Databases/Libraries/Tools: Postgres, APIs, Node/npm, Git, GitHub
 
 ### Class Project:
 The other big protion of the class is to complete a call project. I have done quite a bit of digging and have landed on a project focused on hacking. My long term goal is to go in to a carreer in cybersecurity and figured no better time to start learning than now. 
