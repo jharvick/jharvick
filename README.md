@@ -12,11 +12,6 @@ I am currently enrolled in Actualize Coding Bootcamp and am loving every minute 
 #### Frameworks: Ruby on Rails, React.js, Bootstrap 
 #### Databases/Libraries/Tools: Postgres, APIs, Node/npm, Git, GitHub
 
-### Class Project:
-The other big protion of the class is to complete a call project. I have done quite a bit of digging and have landed on a project focused on hacking. My long term goal is to go in to a carreer in cybersecurity and figured no better time to start learning than now. 
-
-For my project I will be learning to write bash scripts for various automations and keeping a small journal to summarize my learnings. If anyone reading this has any advice for me as I begin to learn I would love to hear from you!
-
 
 
 
